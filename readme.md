@@ -23,7 +23,6 @@
 - MMGameLite 介绍和使用文档：[https://mos.m.taobao.com/taojimu/docs/#/mmgamelite](https://mos.m.taobao.com/taojimu/docs/#/mmgamelite)
 - MMGameLite： [@taojimu/mmgamelite-miniapp-v6](https://www.npmjs.com/package/@taojimu/mmgamelite-miniapp-v6)
 <br>
-<br>
 
 - 小程序版 PixiJs 引擎： [@tbminiapp/pixi-miniprogram-engine-v6](https://www.npmjs.com/package/@tbminiapp/pixi-miniprogram-engine-v6)
 - 使用样例：[https://github.com/thx/aliminiapp-pixiv6-demo](https://github.com/thx/aliminiapp-pixiv6-demo)
