@@ -1,0 +1,7 @@
+{
+  "taobao-biztype": "taojimu",
+  "include": [
+    "ext.json"
+  ],
+  "component2": true
+}

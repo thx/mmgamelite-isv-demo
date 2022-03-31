@@ -1,0 +1,18 @@
+{
+  "name": "mmgamelite-isv-demo",
+  "version": "1.0.0",
+  "description": "淘积木互动小程序demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@taojimu/mmgamelite-miniapp-v6": "^6.0.0-beta.1",
+    "@tbminiapp/pixi-miniprogram-engine-v6": "6.2.1-beta.8",
+    "@tbminiapp/pixi-miniprogram-adapter": "^1.0.22",
+    "gsap": "^2.1.2"
+  }
+}

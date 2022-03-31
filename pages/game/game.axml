@@ -1,0 +1,3 @@
+<view class="page">
+  <mmgame compExt="{{component.compExt}}" />
+</view>

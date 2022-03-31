@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mmgame-canvas": "@taojimu/mmgamelite-miniapp-v6/components/mmgame-canvas/mmgame-canvas"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/game/game"
+  ],
+  "window": {
+    "defaultTitle": "淘积木互动demo",
+    "navigationBarForceEnable": true,
+    "allowsBounceVertical": "NO",
+    "transparentTitle": "always"
+  },
+  "plugins": {
+  }
+}

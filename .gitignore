@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log.*
+package-lock.json
+yarn.lock
+dist
+build
+# miniapp-typings
+# .vscode
+typings
+.build
+.eslintcache
+.DS_Store
+.tea
+ext.json
+[0-9]*.json
+*.zip
